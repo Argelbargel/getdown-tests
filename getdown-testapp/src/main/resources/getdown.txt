@@ -1,0 +1,2 @@
+appbase=file:///${basedir}/target/__VERSION__
+

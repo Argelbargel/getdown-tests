@@ -1,0 +1,3 @@
+appbase=file:///${basedir}/target/__VERSION__
+code=${project.artifactId}.jar
+class=de.theprojects.getdown.testapp.Main

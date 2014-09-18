@@ -12,7 +12,7 @@
 
    <modules>
       <module>getdown</module>
-      <module>getdown-test</module>
+      <module>getdown-testapp</module>
    </modules>
 
 </project>
