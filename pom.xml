@@ -7,6 +7,12 @@
    <groupId>de.theprojects</groupId>
    <artifactId>getdown-build</artifactId>
    <version>1.0</version>
+   <packaging>pom</packaging>
 
+
+   <modules>
+      <module>getdown</module>
+      <module>getdown-test</module>
+   </modules>
 
 </project>
