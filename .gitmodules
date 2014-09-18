@@ -1,0 +1,6 @@
+[submodule "getdown"]
+	path = getdown
+	url = https://github.com/Argelbargel/getdown.git
+[submodule "getdown-test"]
+	path = getdown-test
+	url = https://github.com/Argelbargel/getdown-test.git
